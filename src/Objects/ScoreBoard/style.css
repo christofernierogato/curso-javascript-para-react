@@ -3,4 +3,12 @@
     justify-content: space-evenly;
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
+    align-items: center;
 }
+
+.score-board > .vs-player{
+    font-family: 'Press Start 2P';
+    font-size: 0.8rem;
+    color: var(--color-sandstorm);
+}
+
