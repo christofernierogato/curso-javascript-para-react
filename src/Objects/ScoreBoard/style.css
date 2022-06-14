@@ -1,9 +1,9 @@
 .score-board{
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
-    align-items: center;
 }
 
 .score-board > .vs-player{
